@@ -167,3 +167,8 @@ a:hover {
   left: 520px;
   bottom: 463px;
 }
+
+.footer {
+  text-align: center;
+  text-decoration: underline;
+}
